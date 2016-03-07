@@ -2,3 +2,7 @@ body{
 	background-color:#ccc;
 	font-family:Arial;
 }
+
+li{
+	color:green;
+}
